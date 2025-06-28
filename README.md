@@ -25,3 +25,10 @@ This project is built using **Selenium WebDriver** and **JUnit** in **Java** to 
 3. ✅ Clone the repository:
    ```bash
    git clone https://github.com/Fariha39/Automation-by-using-junit-selenium
+
+   | Task     | Description                   | Video Link                                                                   |
+| -------- | ----------------------------- | ---------------------------------------------------------------------------- |
+| ✅ Task 1 | Practice Webform for Learners | [▶ Watch Task 1 Video]("C:\Users\jahan\Videos\ScreenRecorderFiles\20250628\webform1.mp4") |
+| ✅ Task 2 | Guest Registration Form       | [▶ Watch Task 2 Video](https://drive.google.com/file/d/your-task2-link/view) |
+| ✅ Task 3 | DSE Data Scraping             | [▶ Watch Task 3 Video](https://drive.google.com/file/d/your-task3-link/view) |
+
