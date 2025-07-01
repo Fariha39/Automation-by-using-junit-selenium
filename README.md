@@ -58,4 +58,4 @@ bash
   <img width="744" alt="task-1" src="https://github.com/user-attachments/assets/c91d34e7-6187-4c90-ad32-56485f84fc66"/>
 
 
- <img width="744" alt="task-1" src="!https://github.com/user-attachments/assets/6f790a88-f563-49c1-8e15-73f5a18cc265"/>
+ <img width="744" alt="task-1" src="https://github.com/user-attachments/assets/6f790a88-f563-49c1-8e15-73f5a18cc265"/>
