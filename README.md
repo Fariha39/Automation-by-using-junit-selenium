@@ -28,9 +28,10 @@ bash
 
 | Task      | Description                         | Video Link                         |
 |-----------|-----------------------------------|----------------------------------|
-| Task 1    | Practice Webform for Learners      | [▶ Watch Video]("C:\Users\jahan\Videos\ScreenRecorderFiles\20250628\webform1.mp4") |
-| Task 2    | Guest Registration Form            | [▶ Watch Video]("C:\Users\jahan\Videos\ScreenRecorderFiles\20250628\registration.mp4") |
-| Task 3    | Data Scraping and Storing          | [▶ Watch Video]("C:\Users\jahan\Videos\ScreenRecorderFiles\20250628\scraptable.mp4") |
+| Task 1    | Practice Webform for Learners      | [▶ Watch Video] 
+("https://drive.google.com/file/d/1Dd-7k8ui0dtRF6k544f6JXClOMZvVU3K/view?usp=drive_link") |
+| Task 2    | Guest Registration Form            | [▶ Watch Video]("https://drive.google.com/file/d/1feUtFfVxKmE0BjqjreQ0tCXHnNam_BWc/view?usp=drive_link") |
+| Task 3    | Data Scraping and Storing          | [▶ Watch Video]("https://drive.google.com/file/d/1R_Xmu1TKSxbkrYcL4S5uoXucwHpZMQ5x/view?usp=drive_link") |
 
 ---
 
@@ -39,6 +40,8 @@ bash
 ### ✅ Task 1: Practice Webform for Learners 
 <img width="744" alt="task-1" src="https://github.com/user-attachments/assets/f942db17-d854-4a55-9295-cc025e0040b7"/>
 
+<img width="744" alt="task-1" src="https://github.com/user-attachments/assets/d60a3ed9-56a1-445f-bb6d-0e246ad865aa"/>
+
  
 
 ---
@@ -46,21 +49,18 @@ bash
 ### ✅ Task 2: Guest Registration Form
 
 - 🖼️ **Guest Form Submission Screenshot**  
-  ![Guest Form Screenshot](https://github.com/user-attachments/assets/![reg1](https://github.com/user-attachments/assets/d2d2ffc8-f660-40cd-b01a-9ac0642eb9fa)
-)
+ <img width="744" alt="task-1" src="https://github.com/user-attachments/assets/bbfaceb7-cf66-4017-a2c2-23cf1438d167"/>
+
 
 - 🖼️ **JUnit HTML Report Screenshot**  
-  ![Guest Form Report Screenshot](https://github.com/user-attachments/assets/![reg2](https://github.com/user-attachments/assets/c70f3f47-7c1a-4d64-aba7-2a44151c2548)
-)
-
+ <img width="744" alt="task-1" src="https://github.com/user-attachments/assets/b626a196-2a0a-4cf7-a749-3340437dbb96"/>
 ---
 
 ### ✅ Task 3: DSE Data Scraping
 
 - 🖼️ **Scraped Data from Console**  
-  ![Console Output Screenshot](https://github.com/user-attachments/assets/![scrap11](https://github.com/user-attachments/assets/7b332125-8a3e-4829-8eec-6ab3b03d8f08)
-)
+  <img width="744" alt="task-1" src="https://github.com/user-attachments/assets/c91d34e7-6187-4c90-ad32-56485f84fc66"/>
+
 
 - 🖼️ **Saved Text File View**  
-  ![Text File Screenshot](https://github.com/user-attachments/assets/![scrap12](https://github.com/user-attachments/assets/efb7d609-cd55-4371-b254-a59f547cf689)
-)
+ <img width="744" alt="task-1" src="!https://github.com/user-attachments/assets/6f790a88-f563-49c1-8e15-73f5a18cc265"/>
