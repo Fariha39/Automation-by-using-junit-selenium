@@ -37,10 +37,9 @@ bash
 ## 📊 Test Report Screenshots
 
 ### ✅ Task 1: Practice Webform for Learners 
- <img width="744" alt="task-1" src="![wb1](https://github.com/user-attachments/assets/f942db17-d854-4a55-9295-cc025e0040b7)" />
+<img width="744" alt="task-1" src="https://github.com/user-attachments/assets/f942db17-d854-4a55-9295-cc025e0040b7"/>
 
-  !(https://github.com/user-attachments/assets/![wb2](https://github.com/user-attachments/assets/be926535-941e-42fa-84a1-788f14e43900)
-)
+ 
 
 ---
 
